@@ -14,3 +14,15 @@ AirBnB Replica with Django
 - [x] Currency
 - [x] Superhost
 - [x] Custom Admin Fieldsets
+
+<details><summary><b>Commands</b></summary>
+
+<p>
+
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py createsuperuser
+- python manage.py runserver
+
+</p>
+</details>
