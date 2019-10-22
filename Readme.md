@@ -13,3 +13,4 @@ AirBnB Replica with Django
 - [x] Language
 - [x] Currency
 - [x] Superhost
+- [x] Custom Admin Fieldsets
